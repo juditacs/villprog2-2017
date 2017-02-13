@@ -1,6 +1,6 @@
 # villprog2-2017
 
-A villamosmérnöki A programozás alapjai 2 (VIAUAA00) kettő tárgy gyakorlatanyagai
+A villamosmérnöki [A programozás alapjai 2 (VIAUAA00)](https://www.aut.bme.hu/Course/VIAUA116) kettő tárgy gyakorlatanyagai
 
 
 # Hogyan tudom futtatni az órai kódokat?
