@@ -2,6 +2,17 @@
 
 A villamosmérnöki A programozás alapjai 2 (VIAUAA00) kettő tárgy gyakorlatanyagai
 
+
+# Hogyan tudom futtatni az órai kódokat?
+
+Az órai példák Linux rendszeren futottak, de a forráskódoknak más platformokon
+is működniük kell.
+A felhasznált egyéb parancsok (grep, head, seq) megtalálhatók minden sztenderd
+Linux disztribúcióban.
+
+[Parancssori argumentumok megadása Visual Studio
+alatt](http://stackoverflow.com/questions/3697299/passing-command-line-arguments-in-visual-studio-2010).
+
 Mappánként található egy rövid leírás az órán használt parancsokról.
 
 A példák sokszor használnak csővezetékeket vagy angolul pipe-okat.
