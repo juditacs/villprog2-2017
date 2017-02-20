@@ -33,3 +33,27 @@ A paraméterek jelentése:
 | `-o myprogram` | lefordított állomány neve, tetszőleges |
 
 Több forrásfájl esetén mindegyiket meg kell adni a `gcc`-nek.
+
+## Az én környezetem
+
+A gyakorlatokon a VIM szövegszerkesztőt használom.
+A VIMhez létezik egy beépített tutorial, ami a `vimtutor` parancs beírásával
+érhető el, valamint online megtalálható egy hasonló
+[tutorial](http://openvim.com/), ami rövid leckéken keresztül mutatja be a VIM
+alapjait.
+Kódkiegészítéshez a
+[YouCompleteMe](https://github.com/Valloric/YouCompleteMe)-t használom.
+Debuggolásra több lehetőség áll rendelkezésre:
+
+1. VIMen belül debuggolni, erről
+   [itt](http://stackoverflow.com/questions/3536600/do-you-debug-c-code-in-vim-how)
+   írnak,
+1. külön debuggert használni, pl. gdb, illetve annak grafikus frontendjei.
+
+A terminálom [Solarized palettát](http://ethanschoonover.com/solarized) és
+[Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+betűtípust használ, amik a legtöbb Linux disztribúción elérhetőek, illetve
+csomagkezelővel telepíthetőek.
+
+Több terminálablak kezeléséhez a [tmux](https://tmux.github.io/) nevű terminál
+multiplexert használom.
