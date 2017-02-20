@@ -21,7 +21,7 @@ Erről egy rövid leírás található
 
 ## Fordítás egy forrásfájl esetén
 
-   g++ mysource.cpp -Wall -o myprogram
+    g++ mysource.cpp -Wall -o myprogram
 
 A paraméterek jelentése:
 
