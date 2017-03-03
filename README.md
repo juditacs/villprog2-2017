@@ -2,6 +2,9 @@
 
 A villamosmérnöki [A programozás alapjai 2 (VIAUAA00)](https://www.aut.bme.hu/Course/VIAUA116) kettő tárgy gyakorlatanyagai
 
+# Eredmények
+
+[KZH eredmények](http://avalon.aut.bme.hu/~judit/results/G11_prog2_kzh_2017.tsv)
 
 # Hogyan tudom futtatni az órai kódokat?
 
