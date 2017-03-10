@@ -3,8 +3,7 @@
 
 int main(int argc, char* argv[]) {
 	srand(time(NULL));
-    printf("%d\n", strlen(argv[1]));
-	Person p1("Tihamer", "Kiss", argv[1]);
+	Person p3("Tihamer", "Kiss", argv[1]);
 	Person p2("Janos", "Toth");
 
     /*
