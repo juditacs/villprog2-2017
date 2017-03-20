@@ -35,8 +35,8 @@ int main() {
     c1 = (c4 = c2);
     //std::cout << (c4 == c1) << std::endl;
     c2 = 12.1;
+
+    // az alabbi ket sor azonos
     std::cout << c2 << c1 << std::endl;
     operator<<(operator<<(std::cout, c2), c1) << std::endl;
-    //std::cin >> c1;
-    //is.ignore(2)
 }
