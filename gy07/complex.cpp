@@ -1,13 +1,4 @@
-/*
- * complex.cpp
- * Copyright (C) 2017 Judit Acs <judit@sch.bme.hu>
- *
- * Distributed under terms of the MIT license.
- */
-
 #include <iostream>
-#include <cstdlib>
-#include <math.h>
 
 class Complex {
 public:
@@ -21,7 +12,7 @@ public:
         return re == rhs.re && im == rhs.im;
     }
     const Complex& operator=(const Complex& rhs) {
-    //const Complex& operator=(Complex rhs) {
+    //const Complex& operator=(Complex rhs) { // vegtelen ciklus lenne
         //std::cout << "op=" << std::endl;
         re = rhs.re;
         im = rhs.im;

@@ -1,9 +1,3 @@
-/*
- * bunny.cpp
- * Copyright (C) 2017 Judit Acs <judit@sch.bme.hu>
- *
- * Distributed under terms of the MIT license.
- */
 #include <iostream>
 
 class Egg {
