@@ -53,10 +53,5 @@ Debuggolásra több lehetőség áll rendelkezésre:
    írnak,
 1. külön debuggert használni, pl. gdb, illetve annak grafikus frontendjei.
 
-A terminálom [Solarized palettát](http://ethanschoonover.com/solarized) és
-[Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
-betűtípust használ, amik a legtöbb Linux disztribúción elérhetőek, illetve
-csomagkezelővel telepíthetőek.
-
 Több terminálablak kezeléséhez a [tmux](https://tmux.github.io/) nevű terminál
 multiplexert használom.
