@@ -119,12 +119,12 @@ public:
     unsigned getCpu() const { return cpu; }
     unsigned getRam() const { return ram; }
     std::string getType() const { return type; }
+    // we need this if we want to use this class as Dictionary keys
     bool operator==(const Computer& rhs) const {
         return type == rhs.type && ram == rhs.ram && cpu == rhs.cpu;
     }
-    /*
+    // we need this if we want to use this class as Dictionary values
     bool operator!=(const Computer& rhs) const { return !(*this == rhs);}
-    */
 };
 std::ostream& operator<<(std::ostream& os, const Computer& c) {
     return os << "type: " << c.getType() << ", CPU: " << c.getCpu() << ", RAM: " << c.getRam();
